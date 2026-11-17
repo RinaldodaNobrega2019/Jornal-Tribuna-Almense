@@ -1,0 +1,6 @@
+{
+  "name": "Jornal Tribuna Almense",
+  "description": "Portal de notícias independente de Almas, Tocantins, Brasil e do mundo — Almas noticiada para todos. Responsável editorial: Rinaldo da Nóbrega.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
